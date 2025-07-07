@@ -1,0 +1,95 @@
+.root {
+    width: 80%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    padding: 30px;
+}
+
+
+.header {
+    background: #720404;
+    height: 192px;
+}
+
+.aside {
+    background-color: #f5f2ee;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    background-color: #d6dee6;
+    height: 96px;
+}
+.avatar {
+    display: flex;
+    align-items: center;
+}
+
+.container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.name {
+    color: #638bbf;
+}
+
+.main {
+    padding: 30px;
+    background-color: #735e59;
+}
+
+.textColor {
+    color: #f5f2ee;
+}
+
+.darkTextColor {
+    color: #735e59;
+}
+
+.companyTitle {
+    color: #f5f2ee;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.companyName {
+    color: #f5f2ee;
+    padding-top: 20px;
+}
+
+.title {
+    color: #f5f2ee;
+    margin-top: 10px;
+}
+
+.profileHeading {
+    padding-bottom: 20px;
+    border-bottom: 2px solid #9e8f85;
+}
+
+.experience {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #f5f2ee;
+}
+
+.list {
+    padding: 20px;
+    color: #f5f2ee;
+    border-bottom: 2px solid #9e8f85;
+}
+
+.table {
+    font-size: 12px;
+    color: #f5f2ee;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.th {
+    text-align: left;
+}
