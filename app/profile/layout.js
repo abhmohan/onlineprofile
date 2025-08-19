@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "Profile",
+  title: "Online Profile",
   description: "Profile page",
 };
 
